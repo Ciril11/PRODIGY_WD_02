@@ -1,6 +1,6 @@
-⏱️ Stopwatch Web Application
-    A smooth and beginner-friendly stopwatch web application built using **HTML**, **CSS**, and **JavaScript**. 
-    This project is part of the **Prodigy InfoTech Web Development Internship - Task 2**.
+## ⏱️ Stopwatch Web Application
+ - A smooth and beginner-friendly stopwatch web application built using **HTML**, **CSS**, and **JavaScript**.
+ - This project is part of the **Prodigy InfoTech Web Development Internship - Task 2**.
 
 
 ## 🔥 Features
